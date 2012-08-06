@@ -1,0 +1,148 @@
+##ContenidosPrinc{position:absolute;left:20px;top:20px;width:560px;z-Index:6;font-family:Arial;font-size:12px;text-align:justify;color:#5F68A0;}
+#deslizaPrinc{position:absolute;left:25px;top:20px;width:535px;z-Index:6;font-family:Arial;font-size:12px;text-align:justify;color:#5F68A0;visibility:hidden}
+#down_Princ{position:absolute;top:4px;left:575;width:13px;height:13px;z-Index:5}
+##ladillo{position:relative;left:9px;top:10px;width:130px; font-family:sans serif,Verdana,Arial; font-size:11px;color:#0000a0;text-align:justify;z-Index:3}
+##logo{position:absolute;left:5px;top:0px;width:0px;height:101 px;background-color:#E9843E}
+#menuPrin{position:absolute;left:20px;top:80px;width:100;font-family:Arial;font-size:13px;color:#ffffff;text-align:left;}
+##normal{position:absolute;left:145;top:115px;width:600;height:400px;font-family:sans serif,Verdana,Arial;font-size:12px;color:#0000a0;text-align:justify;}
+#opcional{position:absolute;width:125px;height:65px;left:670px;top:30px}
+#prefor{position:relative;left:10px;width:530px;background-color:#F1F1DA; height:200px}
+#PROVISIONAL{position:absolute;left:620px;top:80px;width:150px;height:30xp;font-family:Arial;font-size:14px;color:#ffffff;font-weight:bold;text-align:left;z-Index:20}
+##recuadro{position:absolute;left:5px;top:115px;width:100px;background-color:#eeeeee;layer-background-color:#eeeeee;z-Index:2;}
+#recuadro11{position:absolute;left:10px;top:15px;width:220px;background-color:#aaaaaa;layer-background-color:#aaaaaa;z-Index:99;visibility:hidden}
+#recuadro22{position:relative;left:-3px;top:-5px;width:215px;background-color:#eeeeee;layer-background-color:#eeeeee;z-Index:99;}
+##text_logo{position:relative;left:75px;	top:-20px;	width:200px;height: 50px;}
+##titular{position:relative;left:190px;top:45px;width:560px;	height:103px;border-width:0;border-style:outset;border-color:#FfFffF; font-family:Arial,sans serif,Verdana;font-size:22px;color:#003366;text-align:left;z-Index:32}
+#up_Princ{position:absolute;top:316px;left:575;width:13px;height:13px;z-Index:5}
+
+
+##recuadro1{ background-image: url(imagenes/Tuesday.jpg); background-repeat: no-repeat; border-color: #0000a0 #0000a0 #0000a0 #0000a0; border: 1px #0000a0 solid; padding: 5px 10px; background-color: #F7FCFE; background-position: right bottom; margin:   5px 5px; font-family: Arial, Helvética, sans-serif; font-size: 10pt; color: #0000a0; text-align: justify}
+##recuadro2{ border-color: #ffffff #0000a0 #0000a0 #0000a0; border: 1px #0000a0 solid;background-position: right bottom; position:relative;background-color:#ffffef;padding:0px 5px;margin:   5px 5px;}
+##recuadro3{ background-image: url(galeria/instalaciones/exter07.jpg); background-repeat: no-repeat;border-color: #0000a0 #0000a0 #0000a0 #0000a0; border: 1px #0000a0 solid; padding: 5px 10px; background-color: #Ffffff; background-position: right bottom; margin:   5px 5px; font-family: Arial, Helvética, sans-serif; font-size: 10pt; color: #0000a0; text-align: justify}
+##recuadro4{ background-image: url(galeria/instalaciones/biblioteca98_1.jpg); background-repeat: no-repeat;border-color: #0000a0 #0000a0 #0000a0 #0000a0; border: 1px #0000a0 solid; padding: 5px 10px; background-color: #Ffffff; background-position: left bottom; margin:   5px 5px; font-family: Arial, Helvética, sans-serif; font-size: 10pt; color: #0000a0; text-align: right}
+##recuadro5{ background-image: url(galeria/instalaciones/biblioteca98_2.jpg); background-repeat: no-repeat;border-color: #0000a0 #0000a0 #0000a0 #0000a0; border: 1px #0000a0 solid; padding: 5px 10px; background-color: #Ffffff; background-position: right bottom; margin:   5px 5px; font-family: Arial, Helvética, sans-serif; font-size: 10pt; color: #0000a0; text-align: left}
+##recuadro6{ background-image: url(/galeria/instalaciones/fachada.jpg); background-repeat: no-repeat;border-color: #0000a0 #0000a0 #0000a0 #0000a0; border: 1px #0000a0 solid; padding: 5px 10px; background-color: #Ffffff; background-position: right bottom; margin:   5px 5px; font-family: Arial, Helvética, sans-serif; font-size: 10pt; color: #0000a0; text-align: left}
+
+
+#num_ejer{font-family:sans serif,Verdana,Arial;background-color:#0000a0;font-size:13px;font-weight:bold;color:#ffffff;text-align:left}
+#num_eval{font-family:sans serif,Verdana,Arial;background-color:#a00000;font-size:13px;font-weight:bold;color:#ffffff;text-align:left}
+
+#titulillo{color:#a00000;font-weight:bold;font-size:13px;text-align:left}
+#titulilloC{color:#a00000;font-weight:bold;font-size:13px;text-align:center}
+#titulito{color:#a00000;font-weight:bold;font-size:16px;text-align:left;}
+#titulPrinc1{font-family:Arial,Verdana;font-size:14px;color:#ffffff;font-weight:bold;width:100%;margin-right:0px;background-color:#E9843E;text-align:center}
+#titulPrinc11{font-family:Arial,Verdana;font-size:14px;color:#ffffff;font-weight:bold;margin-right:300px;background-color:#E9843E;text-align:left}
+#titulPrinc2{font-family:Arial,Verdana;font-size:14px;color:#ffffff;font-weight:bold;width:100%;margin-right:0px;background-color:#627FB7;text-align:center}
+#titulPrinc22{font-family:Arial,Verdana;font-size:14px;color:#ffffff;font-weight:bold;margin-right:300px;background-color:#627FB7;text-align:left}
+#titulPrinc3{font-family:Arial,Verdana;font-size:14px;color:#ffffff;font-weight:bold;width:100%;margin-right:0px;background-color:#70A77F;text-align:center}
+#titulPrinc33{font-family:Arial,Verdana;font-size:14px;color:#ffffff;font-weight:bold;margin-right:300px;background-color:#70A77F;text-align:left}
+
+
+
+#cabezaPrin{color:#ffffff;font-family:Arial,Times;font-size:40px;text-align:center}
+#resaltarPrin{color:#E9843E;}
+#enlace{font-family:Arial;font-size:10px;position:absolute;left:150px;top:82px;widht:40px;height:14px;z-Index:90}
+#enl_ej{font-size:11px;font-family:sans serif,Arial;text-align:center}
+#referencias{font-family:sans serif,Verdana,Arial;font-size:11px;color:#a00000;text-align:justify;margin-left:60px;margin-right:60px}
+
+
+#chiquiC{font-family:sans serif,Verdana,Arial;font-size:10px;color:#0000a0;text-align:center;}
+#chiquiJ{font-family:sans serif,Verdana,Arial;font-size:10px;color:#0000a0;text-align:justify;}
+#chiquiJ5{font-family:sans serif,Verdana,Arial;font-size:10px;color:#0000a0;text-align:justify;margin-left:10px;margin-right:20px}
+#chiquiL{font-family:sans serif,Verdana,Arial;font-size:10px;color:#0000a0;text-align:left;}
+#chiquiR{font-family:sans serif,Verdana,Arial;font-size:10px;color:#0000a0;text-align:right;}
+#normalC{font-family:sans serif,Verdana,Arial;font-size:12px;color:#0000a0;text-align:center;}
+#normalL{font-family:sans serif,Verdana,Arial;font-size:12px;color:#0000a0;text-align:left;}
+#normalR{font-family:sans serif,Verdana,Arial;font-size:12px;color:#0000a0;text-align:right;}
+#normalJ{font-family:sans serif,Verdana,Arial;font-size:12px;color:#0000a0;text-align:justify;}
+#superR{color:#a00000;font-weight:bold;font-size:20px;text-align:left}
+#superA{color:#0000a0;font-weight:bold;font-size:20px;text-align:left}
+
+#cabTabla{color:#a00000;font-weight:bold;font-size:15px;text-align:center;color:#ffffff}
+#previos{font-family:sans serif,Verdana,Arial;font-size:11px;color:#0000a0;text-align:left;font-weight:bold}
+#previas{font-family:sans serif,Verdana,Arial;font-size:11px;color:#0000a0;text-align:left;font-style:italic}
+
+
+
+#cursiva{font-style:italic}
+#cursiva1{font-style:italic;color:#a00000;}
+#negrita{font-weight:bold}
+#negrita1{color:#a00000;font-weight:bold}
+#neg_cur{font-weight:bold;font-style:italic}
+#neg_cur1{color:#a00000;font-weight:bold;font-style:italic}
+#PIE{font-family:sans serif,Verdana,Arial;font-size:10px;text-align:center}
+#t11{font-family:sans serif,Verdana,Arial;font-size:14px;font-weight:bold;color:#a00000;text-align:center;text-valign:middle}
+#t12{font-family:sans serif,Verdana,Arial;font-size:12px;font-style:italic;color:#0000a0;text-align:justify;text-valign:middle}
+#t13{font-family:sans serif,Verdana,Arial;font-size:12px;font-weight:bold;color:#a00000;text-align:center;text-valign:middle}
+#t14{font-family:sans serif,Verdana,Arial;font-size:10px;font-style:italic;color:#000000;text-align:center;text-valign:middle}
+#t15{font-family:sans serif,Verdana,Arial;font-size:13px;font-weight:bold;color:#ff0000;text-align:center;text-valign:middle}
+
+
+
+#azul{color:#0000ff;}
+#blancaC{font-family:sans serif,Verdana,Arial;font-size:12px;color:#ffffff;text-align:center;}
+#cyan{color:#00ffff;}
+#granate{font-family:sans serif,Verdana,Arial;font-size:10px;color:#a00000;text-align:justify;font-weight:bold}
+#magenta{color:#ff00ff;}
+#rojo{color:#ff0000;}
+#verde{color:#00ff00;}
+
+
+A:link{text-decoration:none;color:#004A06}
+A:visited{text-decoration:none;color:#004A06}
+A:hover{text-decoration:none;color:#a00000;}
+
+.fuentenormal {font-family: Arial;font-size:10pt;color:#000000;}
+.fuentepequeña {font-family:Verdana;font-size:11px;color:#000000;}
+
+.formulario
+{
+	background-color: #F8F8F8;
+	font-family: Verdana;
+	font-size: 10pt;
+	color: #000000;
+	border: 1px #333333 solid;}
+
+.tablanormal {background-color:#000000;width:475;}
+.tablaform {background-color:#000000;width:500;}
+.filatitulo {background-color:#3B598D;height:25;font-family:Verdana;font-size:11px;	color:#FFFFFF;font-weight:bold;}
+.filacentro1 {background-color:#F8F8F8;font-family:Arial;font-size:10pt;}
+.filacentro2 {background-color:#FFFFFF;font-family:Arial;font-size:10pt;}
+.filaabajo {background-color:#7896C7;height:20;font-family:Verdana;font-size:11px;font-weight:bold;}
+
+
+.campos {
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	background-color: #ededed;
+	height: 14px;
+	width: 100px;
+	border: 1px solid #000000;
+	font-size: 9px;
+	font-style: normal;
+	color: #000000; }
+.textok {
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size: 9px;
+	font-style: normal;
+	color: #000000;
+	background-color: #ededed;
+	height: auto;
+	width: auto;
+	border: 1px solid #000000;}
+.botones {
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size: 9px;
+	font-style: normal;
+	background-color: #ededed;
+	border: 1px solid #000000; }
+	
+	body {
+scrollbar-arrow-color: #FFFFFF;
+scrollbar-base-color:#D5DED0;
+scrollbar-dark-shadow-color: #70A77F;
+scrollbar-track-color: #E9843E;
+scrollbar-face-color: #70A77F;
+scrollbar-shadow-color: #70A77F;
+scrollbar-highlight-color: #FFFFFF;
+scrollbar-3d-light-color: #70A77F;
+}
