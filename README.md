@@ -1,4 +1,4 @@
-# Australian News
+# Extended Essays - IBEE
 
 Check http://javiercejudo.com/ee-import for more information and
 http://javiercejudo.kodingen.com/ibee for some interesting visualization
