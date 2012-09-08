@@ -1,6 +1,6 @@
 <?php
 
-require_once '../config.php';
+require_once 'config.php';
 
 // iniciamos la conexion con la base de datos
 try{
@@ -19,7 +19,7 @@ try{
 }
 
 // definicion de variables
-$url_datos = './data/';
+$url_datos = './xml/data/';
 
 // elegir la pareja que se quiera importar
 $materia   = 'filosofia';

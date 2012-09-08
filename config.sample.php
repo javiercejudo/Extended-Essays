@@ -3,7 +3,7 @@ ini_set('display_errors', 0);
 
 date_default_timezone_set('Europe/Madrid');
 
-define('HOST', 'localhost');
+define('HOST', '');
 define('USERNAME', '');
 define('PASSWD', '');
 define('DBNAME', '');
